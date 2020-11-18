@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://phi123:phi123@devconnector.6lei2.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c5dc8bd20b9a80059d93",
+  "githubSecret": "df1a12c980b3bc35d91a49e6c612a6cee9d65184"
+}
