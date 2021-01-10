@@ -37,3 +37,45 @@ npm install
 ```
 npm run dev
 ```
+
+## Screen Shots
+
+Landing Page
+
+![landing-page](screenshots/landing-page.png)
+
+Register Page
+
+![register-page](screenshots/register.png)
+
+Login Page
+
+![login-page](screenshots/login.png)
+
+Create Profile Page
+
+![create-profile-page](screenshots/create-profile.png)
+
+Add Experience Page
+
+![add-experience-page](screenshots/add-experience.png)
+
+Add Education Page
+
+![add-education-page](screenshots/add-education.png)
+
+Dashboard Page
+
+![dashboard-page](screenshots/dashboard.png)
+
+Developers Page
+
+![developers-page](screenshots/developers.png)
+
+Posts Page
+
+![posts-page](screenshots/posts.png)
+
+Comments Page
+
+![comments-page](screenshots/comments.png)
